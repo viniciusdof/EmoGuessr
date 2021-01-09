@@ -1,5 +1,5 @@
 export default {
-    en: {
+    fr: {
         Home: {
             record: 'Registro',
             historyBtn: 'HISTÓRICO',
@@ -9,11 +9,11 @@ export default {
                 enterCity: 'Insira uma cidade, estado ou país',
             },
             aboutDescriptions: {
-                1: ' Os jogadores competem o quão perto o jogador pode adivinhar locais aleatórios em cinco rodadas.  \
+                1: "Os jogadores competem o quão perto o jogador pode adivinhar locais aleatórios em cinco rodadas.  \
                 Você pode compartilhar a pontuação com outras pessoas através das redes sociais, como Facebook ou Twitter. \
                 Você pode jogar jogos multijogador com seus amigos até cinco amigos.   \
-                O primeiro jogador cria uma sala e decide o tamanho da sala. Outros jogadores digitam o mesmo nome da sala que o primeiro jogador criado e o jogo começará.',
-                2: 'Este jogo foi desenvolvid com base no ',
+                O primeiro jogador cria uma sala e decide o tamanho da sala. Outros jogadores digitam o mesmo nome da sala que o primeiro jogador criado e o jogo começará.",
+                2: 'Este jogo foi desenvolvido com base no ',
             },
             customMap: 'MAPAS CUSTOMIZADOS',
             customMapDescriptions: {
@@ -22,7 +22,7 @@ export default {
                 3: 'Além disso, você pode utilizar criar mapas customizados utilizando:',
                 4: 'Arquivos.',
                 5: 'Insira o conteúdo do mapa GeoJson com o botão:',
-                6: 'Seleção do mapa customizado: ',
+                6: 'exemplos de mapas customizado: ',
             },
             limitation: 'LIMITAÇÃO',
             limitationDescription:
@@ -90,7 +90,6 @@ export default {
             rank: 'Classificação',
             search: 'Pesquisa',
         },
-
         DialogRoom: {
             singlePlayer: 'Sozinho',
             withFriends: 'Com amigos',
@@ -99,6 +98,7 @@ export default {
                 'O primeiro jogador está criando a sala agora. Aguarde e tente novamente.',
             roomIsFull: 'Esta sala já está cheia. Por favor, tente outro.',
         },
+
         CardRoomName: {
             title: 'Digite um nome para a sala.',
         },
@@ -112,6 +112,12 @@ export default {
         CardRoomTime: {
             title: 'Defina uma limitação de tempo.',
             infinite: 'Infinito',
+        },
+        CardRoomDifficulty: {
+            title: 'Defina a dificuldade',
+            easy: 'Fácil',
+            medium: 'Médio',
+            hard: 'Difícil',
         },
         DialogSummary: {
             summaryMsgSingle:
