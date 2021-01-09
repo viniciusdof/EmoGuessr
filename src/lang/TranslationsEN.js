@@ -22,7 +22,7 @@ export default {
                 3: 'Furthermore, you can make your customs map with ',
                 4: 'file.',
                 5: 'Insert the content of the GeoJson map with the button :',
-                6: 'Customs Map selection : ',
+                6: 'examples of custom maps: ',
             },
             limitation: 'LIMITATION',
             limitationDescription:
