@@ -6,7 +6,7 @@
                     class="ml-4 mr-4"
                     icon
                     color="#FFFFFF"
-                    href="https://github.com/GeoGuess/Geoguess"
+                    href="https://github.com/viniciusdof/EmoGuessr"
                 >
                     <v-icon size="30">mdi-github-circle</v-icon>
                 </v-btn>
@@ -14,15 +14,7 @@
                     class="ml-4 mr-4"
                     icon
                     color="#FFFFFF"
-                    href="https://discord.gg/9GXm6RT"
-                >
-                    <v-icon size="30">mdi-discord</v-icon>
-                </v-btn>
-                <v-btn
-                    class="ml-4 mr-4"
-                    icon
-                    color="#FFFFFF"
-                    href="https://twitter.com/BilelJegham"
+                    href="https://twitter.com/viniciusdof"
                 >
                     <v-icon size="30">mdi-twitter</v-icon>
                 </v-btn>
@@ -31,7 +23,7 @@
                 <p>
                     {{ version }} - {{ $t('Footer.under') }}
                     <a
-                        href="https://github.com/GeoGuess/Geoguess/blob/master/LICENSE"
+                        href="https://github.com/viniciusdof/EmoGuessr/blob/master/LICENSE"
                         >MIT license</a
                     >
                 </p>

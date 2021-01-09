@@ -7,7 +7,7 @@
             <p class="section-description">
                 {{ $t('Home.aboutDescriptions.1') }}
                 <br />{{ $t('Home.aboutDescriptions.2') }}
-                <a href="https://geoguessmaster.com/">GeoGuess Master</a>.
+                <a href="https://geoguess.games/">Geoguess</a>.
             </p>
 
             <h3 class="section-header">{{ $t('Home.customMap') }}</h3>
@@ -26,7 +26,7 @@
                 <li>
                     <a
                         href="https://gist.github.com/BilelJegham/7f855024440c67d65f24536c9215719e"
-                        >Biggest cities world</a
+                        >Maiores cidades do mundo</a
                     >
                 </li>
                 <li>

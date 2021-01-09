@@ -9,8 +9,7 @@ export default {
                 enterCity: 'Enter city, state or country',
             },
             aboutDescriptions: {
-                1: 'Geoguess is a free and lazy geoguess game with no ads.  \
-                Players compete how close the player can guess random locations in five rounds. \
+                1: 'Players compete how close the player can guess random locations in five rounds. \
                 You can share the score with other people via social media like Facebook or Twitter. \
                 You can play multiplayer game with your friends up to five friends.  \
                 The first player creates a room and decide the room size. Other players type the same room name as the first player created and the game will start.',
@@ -27,10 +26,8 @@ export default {
             },
             limitation: 'LIMITATION',
             limitationDescription:
-                "Currently I set quotas per day so the cost to run this game can't get too high. \
-            If the map doesn't load, it means the quotas has been exceeded on the day. \
-            It will reset at midnight Pacific Time. Sorry for inconvenience. \
-            This game is open source so you can build your own game server and play this game unlimitedly.",
+                "If the map doesn't load, it means the quotas has been exceeded on the day. \
+                It will reset at midnight Pacific Time.",
             play: 'Play',
         },
         StreetView: {
