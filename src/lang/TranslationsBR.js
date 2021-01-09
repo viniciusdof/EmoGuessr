@@ -1,5 +1,5 @@
 export default {
-    fr: {
+    br: {
         Home: {
             record: 'Registro',
             historyBtn: 'HISTÓRICO',
