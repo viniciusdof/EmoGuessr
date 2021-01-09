@@ -1,7 +1,7 @@
 export default {
     br: {
         Home: {
-            record: 'Registro',
+            record: 'Recorde',
             historyBtn: 'HISTÓRICO',
             about: 'SOBRE',
             searchBar: {
